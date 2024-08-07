@@ -1,0 +1,55 @@
+.registerform{
+    margin-left: 440px;
+    margin-top: 5vh;
+    height: 80vh;
+    width: 500px;
+    box-shadow: 5px 5px 25px rgb(255, 243, 243);
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.39);
+    color: white;
+  }
+  .registerform:hover{
+    box-shadow: 5px 15px 45px rgb(255, 249, 249);
+  }
+  .registerform .heading{
+    padding-top: 10px;
+    color: white;
+  }
+  .registerform .form1{
+    height: 30px;
+    width: 200px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.39);
+    color: black;
+    box-shadow: 5px 5px 20px rgb(0, 0, 0);
+  }
+  .registerform .btn{
+    height: 40px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-top: 3vh;
+    border: none;
+    font-size: 17px;
+    
+  }
+  .registerform .btn:hover{
+    background-color: rgb(38, 104, 93);
+    color: black;
+  }
+  .registerform p{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+  .registerform div{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+  .registerform div label{
+    margin-top: 20px;
+  }
